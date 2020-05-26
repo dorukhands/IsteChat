@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "785265587319",
+    "firebase_url": "https://istechat-15302.firebaseio.com",
+    "project_id": "istechat-15302",
+    "storage_bucket": "istechat-15302.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:785265587319:android:60759d0ed2b52466bdc272",
+        "android_client_info": {
+          "package_name": "durkal.chatiste"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "785265587319-tm1lj1h57qf5r61vc5kpjuaie9pjt3so.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCnzjRVxTDGnTakzveo-uVqENT8xmBhUWk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "785265587319-tm1lj1h57qf5r61vc5kpjuaie9pjt3so.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
